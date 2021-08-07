@@ -1,0 +1,25 @@
+.text-design{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: navy;
+    text-align: center;
+}
+.learn-more{
+    height: 30px;
+    width: 80px;
+    border: none;
+    background-color:#551a8b;
+    color: white;
+    margin: 5px 5px;
+    margin-left: 15px;
+}
+.buy-now{
+    height: 30px;
+    width: 80px;
+    border: none;
+    background-color: #551a8b;
+    color: white;
+    margin: 5px 5px;
+    margin-left: 90px;
+}

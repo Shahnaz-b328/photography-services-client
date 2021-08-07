@@ -1,0 +1,13 @@
+footer{
+    background-color: gainsboro;
+}
+footer .three-column {
+    overflow: hidden;
+   }
+   
+footer .three-column li{
+    width: 33.3333%;
+     float: left;
+     padding: 5px 0;
+     color: navy;
+   }
